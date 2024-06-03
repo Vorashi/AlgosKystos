@@ -1,0 +1,13 @@
+D:\ММ\lr7 QUG\lr7 QUG\bin\Debug\lr7 QUG.exe.config
+D:\ММ\lr7 QUG\lr7 QUG\bin\Debug\lr7 QUG.exe
+D:\ММ\lr7 QUG\lr7 QUG\bin\Debug\lr7 QUG.pdb
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7 QUG.csproj.AssemblyReference.cache
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7_QUG.Form1.resources
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7_QUG.FormU.resources
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7_QUG.Properties.Resources.resources
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7 QUG.csproj.GenerateResource.cache
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7 QUG.csproj.CoreCompileInputs.cache
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7 QUG.exe
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7 QUG.pdb
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7_QUG.FormQ.resources
+D:\ММ\lr7 QUG\lr7 QUG\obj\Debug\lr7_QUG.FormG.resources

@@ -1,0 +1,12 @@
+D:\ММ\lr8 LS\lr8 LS\bin\Debug\lr8 LS.exe.config
+D:\ММ\lr8 LS\lr8 LS\bin\Debug\lr8 LS.exe
+D:\ММ\lr8 LS\lr8 LS\bin\Debug\lr8 LS.pdb
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8 LS.csproj.AssemblyReference.cache
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8_LS.Form1.resources
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8_LS.FormL.resources
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8_LS.Properties.Resources.resources
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8 LS.csproj.GenerateResource.cache
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8 LS.csproj.CoreCompileInputs.cache
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8 LS.exe
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8 LS.pdb
+D:\ММ\lr8 LS\lr8 LS\obj\Debug\lr8_LS.FormS.resources
