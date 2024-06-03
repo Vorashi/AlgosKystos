@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u043C\\primakpask\\primakpask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|solutionrelative:primakpask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\primakpask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|solutionrelative:primakpask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\primakpask\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|solutionrelative:primakpask\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\primakpask\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|solutionrelative:primakpask\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\primakpask\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|solutionrelative:primakpask\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\primakpask\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2621AD-CDD3-4EEA-8C1D-1AF9B847D532}|PrimaKpask\\PrimaKpask.csproj|solutionrelative:primakpask\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form3.cs",
+              "RelativeDocumentMoniker": "PrimaKpask\\Form3.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form3.cs",
+              "RelativeToolTip": "PrimaKpask\\Form3.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:36:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form3.cs",
+              "RelativeDocumentMoniker": "PrimaKpask\\Form3.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PrimaKpask\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:33:46.956Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form2.cs",
+              "RelativeDocumentMoniker": "PrimaKpask\\Form2.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form2.cs",
+              "RelativeToolTip": "PrimaKpask\\Form2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:40:05.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form2.cs",
+              "RelativeDocumentMoniker": "PrimaKpask\\Form2.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PrimaKpask\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:32:02.18Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimaKpask\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form1.cs",
+              "RelativeToolTip": "PrimaKpask\\Form1.cs",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAMwOEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:24:03.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimaKpask\\Form1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u043C\u043C\\PrimaKpask\\PrimaKpask\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PrimaKpask\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:02:41.759Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

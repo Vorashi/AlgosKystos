@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041C\u041C\\Simplex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|D:\\\u041C\u041C\\Simplex\\simplex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|solutionrelative:simplex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|d:\\\u043C\u043C\\simplex\\simplex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|solutionrelative:simplex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|D:\\\u041C\u041C\\Simplex\\simplex\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|solutionrelative:simplex\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|D:\\\u041C\u041C\\Simplex\\simplex\\constraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|solutionrelative:simplex\\constraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|D:\\\u041C\u041C\\Simplex\\simplex\\simplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|solutionrelative:simplex\\simplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|D:\\\u041C\u041C\\Simplex\\simplex\\simplexsnap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|solutionrelative:simplex\\simplexsnap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|D:\\\u041C\u041C\\Simplex\\simplex\\simplexindexresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B1552C-C3E7-4FC5-9865-781D97CCDB20}|Simplex\\Simplex.csproj|solutionrelative:simplex\\simplexindexresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Simplex.cs",
+              "DocumentMoniker": "D:\\\u041C\u041C\\Simplex\\Simplex\\Simplex.cs",
+              "RelativeDocumentMoniker": "Simplex\\Simplex.cs",
+              "ToolTip": "D:\\\u041C\u041C\\Simplex\\Simplex\\Simplex.cs",
+              "RelativeToolTip": "Simplex\\Simplex.cs",
+              "ViewState": "AQIAACQBAAAAAAAAAAASwDgBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:33:50.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimplexSnap.cs",
+              "DocumentMoniker": "D:\\\u041C\u041C\\Simplex\\Simplex\\SimplexSnap.cs",
+              "RelativeDocumentMoniker": "Simplex\\SimplexSnap.cs",
+              "ToolTip": "D:\\\u041C\u041C\\Simplex\\Simplex\\SimplexSnap.cs",
+              "RelativeToolTip": "Simplex\\SimplexSnap.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:22:45.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u041C\u041C\\Simplex\\Simplex\\Form1.cs",
+              "RelativeDocumentMoniker": "Simplex\\Form1.cs",
+              "ToolTip": "D:\\\u041C\u041C\\Simplex\\Simplex\\Form1.cs",
+              "RelativeToolTip": "Simplex\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:09:48.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimplexIndexResult.cs",
+              "DocumentMoniker": "D:\\\u041C\u041C\\Simplex\\Simplex\\SimplexIndexResult.cs",
+              "RelativeDocumentMoniker": "Simplex\\SimplexIndexResult.cs",
+              "ToolTip": "D:\\\u041C\u041C\\Simplex\\Simplex\\SimplexIndexResult.cs",
+              "RelativeToolTip": "Simplex\\SimplexIndexResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:21:55.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u041C\u041C\\Simplex\\Simplex\\Form1.cs",
+              "RelativeDocumentMoniker": "Simplex\\Form1.cs",
+              "ToolTip": "D:\\\u041C\u041C\\Simplex\\Simplex\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Simplex\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:54:39.376Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constraint.cs",
+              "DocumentMoniker": "D:\\\u041C\u041C\\Simplex\\Simplex\\Constraint.cs",
+              "RelativeDocumentMoniker": "Simplex\\Constraint.cs",
+              "ToolTip": "D:\\\u041C\u041C\\Simplex\\Simplex\\Constraint.cs",
+              "RelativeToolTip": "Simplex\\Constraint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:17:14.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\\u041C\u041C\\Simplex\\Simplex\\Function.cs",
+              "RelativeDocumentMoniker": "Simplex\\Function.cs",
+              "ToolTip": "D:\\\u041C\u041C\\Simplex\\Simplex\\Function.cs",
+              "RelativeToolTip": "Simplex\\Function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:18:32.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

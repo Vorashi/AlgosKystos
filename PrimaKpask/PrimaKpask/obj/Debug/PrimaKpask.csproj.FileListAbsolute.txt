@@ -1,0 +1,12 @@
+D:\Учеба\мм\PrimaKpask\PrimaKpask\bin\Debug\PrimaKpask.exe.config
+D:\Учеба\мм\PrimaKpask\PrimaKpask\bin\Debug\PrimaKpask.exe
+D:\Учеба\мм\PrimaKpask\PrimaKpask\bin\Debug\PrimaKpask.pdb
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.csproj.AssemblyReference.cache
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.Form1.resources
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.Form2.resources
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.Form3.resources
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.Properties.Resources.resources
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.csproj.GenerateResource.cache
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.csproj.CoreCompileInputs.cache
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.exe
+D:\Учеба\мм\PrimaKpask\PrimaKpask\obj\Debug\PrimaKpask.pdb
