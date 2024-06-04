@@ -8,3 +8,13 @@ C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr10\Permu
 C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.exe
 C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.pdb
 C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.Form1.resources
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.csproj.AssemblyReference.cache
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.Form1.resources
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.Properties.Resources.resources
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.csproj.GenerateResource.cache
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.csproj.CoreCompileInputs.cache
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.exe
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\obj\Debug\PermutationCiphers.pdb
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\bin\Debug\PermutationCiphers.exe.config
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\bin\Debug\PermutationCiphers.exe
+C:\MyWorkProgramm\Algos\lr10\PermutationCiphers\bin\Debug\PermutationCiphers.pdb
