@@ -139,7 +139,7 @@ namespace PermutationCiphers
                     //isSuccess = pc.MagicSquare(txtInput.Text, , out result);
                     break;
                 case "Двойная перестановка":
-                   // isSuccess = pc.DoublePermutation(txtInput.Text, , out result);
+                    //isSuccess = pc.DoublePermutation(txtInput.Text, , out result);
                     break;
                 default:
                     isSuccess = false;

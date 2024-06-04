@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PermutationCiphers
 {
@@ -21,14 +19,14 @@ namespace PermutationCiphers
         {
             result = "";
 
-            if (!ConvertToIntArray(sKey, out int[] key))
+            if (!SplitString(sKey, out int[] key))
             {
                 result = "Ошибка ввода ключа";
                 return false;
             }
             key = ConvertToNormalArray(key);
             foreach (int i in key)
-                result += input[i-1];
+                result += input[i];
 
             return true;
         }
@@ -44,7 +42,7 @@ namespace PermutationCiphers
         {
             result = "";
 
-            if (!ConvertToIntArray(sBlock, out int[] block))
+            if (!SplitString(sBlock, out int[] block))
             {
                 result = "Ошибка ввода ключа";
                 return false;
@@ -55,7 +53,7 @@ namespace PermutationCiphers
 
             for(int i = 0; i<input.Length; i+=block.Length)
                 for (int j = 0;  j < block.Length; j++)
-                    result += input[i + block[j]-1];
+                    result += input[i + block[j]];
 
             return true;
         }
@@ -97,31 +95,13 @@ namespace PermutationCiphers
             while (input.Length % countColumnInSquare != 0)
                 input += " ";
 
-            List<int> listIndexCharSlogan = new List<int>() { 7, 1, 3, 5, 6, 2, 4};
-            //сделать конверт слова в массив цифр
-            foreach (char c in slogan)
-            {
-                //listIndexCharSlogan.Add(alphabet.IndexOf(c));
-            }
-
-            int indexCharSlogan = 0;
-            int[] arrayIndexCharSlogan = new int[countColumnInSquare];
-            foreach (int i in listIndexCharSlogan)
-            {//можно в новый лсит добавлять если мин равен значению и потом в массив добавлять indexCharSlogan
-                int indexMin = -1;
-                List<int> minList = new List<int>();
-                foreach (int j in listIndexCharSlogan)
-                {
-                    //if(j == indexMin)
-
-                }
-                indexCharSlogan++;
-            }
+            List<int> listIndexCharSlogan = ConvertStringToIntArray(slogan);
+            listIndexCharSlogan = ConvertToNormalArray(listIndexCharSlogan.ToArray()).ToList();
 
             int countRowInSquare = input.Length / slogan.Length;
             foreach (int  column in  listIndexCharSlogan)
                 for (int  row = 0; row < countRowInSquare; row++)
-                    result += input[row * countColumnInSquare + column-1];
+                    result += input[row * countColumnInSquare + column];
 
             return true;
         }
@@ -176,12 +156,14 @@ namespace PermutationCiphers
         {
             result = "";
 
+            //List<int> intSlogan = ConvertStringToIntArray(slogan);
             int countColumn = 1;
             int currentWriteColumn = 0;
             List<Triangle> listTriangle = new List<Triangle>();
             foreach(char c in input)
             {
                 Triangle tr = new Triangle(c, countColumn, currentWriteColumn);
+                listTriangle.Add(tr);
                 currentWriteColumn++;
                 if (currentWriteColumn == countColumn)
                 {
@@ -264,7 +246,7 @@ namespace PermutationCiphers
             return true;
         }
 
-        private bool ConvertToIntArray(string input, out int[] array)
+        private bool SplitString(string input, out int[] array)
         {
             string[] sArray = input.Split(" ".ToCharArray());
             List<int> list = new List<int>();
@@ -272,7 +254,7 @@ namespace PermutationCiphers
             {
                 try
                 {
-                    int value = int.Parse(s);
+                    int value = int.Parse(s)-1;
                     if (list.Contains(value))
                     {
                         array = null;
@@ -290,24 +272,39 @@ namespace PermutationCiphers
             return true;
         }
 
-        private void ClearRepitInList(int[] array)
-        {
-            List<int> list = array.ToList();
-            foreach (int i in list)
-            {
-                //if (list)
-            }
-        }
-
-        private int[] ConvertToNormalArray(int[] array)
+        public int[] ConvertToNormalArray(int[] array)
         {
             List<int> badList = array.ToList<int>();
             int[] normalArray = new int[badList.Count];
             for(int i = 0; i < badList.Count; i++)
             {
-                normalArray[badList.IndexOf(array[i])] = badList[i];
+                normalArray[badList[i]] = i;
             }
             return normalArray;
+        }
+    
+        private List<int> ConvertStringToIntArray(string str)
+        {
+            List <SloganAndNumber> list = new List<SloganAndNumber>();
+            for (int i=0; i < str.Length; i++)
+            {
+                SloganAndNumber sn = new SloganAndNumber(str[i], i);
+                list.Add(sn);
+            }
+            //сортировка
+            list.Sort((x, y) => x.Symbol.CompareTo(y.Symbol));
+
+            int indexInAlphabet = 0;
+            foreach(SloganAndNumber sn in list)
+            {
+                sn.NumberInAlphabet = indexInAlphabet++;
+            }
+            list.Sort((x, y) => x.NumberInWord.CompareTo(y.NumberInWord));
+            
+            List<int> listInt = new List<int>();
+            foreach(SloganAndNumber sn in list)
+                listInt.Add(sn.NumberInAlphabet);
+            return listInt;
         }
     }
 }

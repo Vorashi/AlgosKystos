@@ -1,0 +1,49 @@
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.exe
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.deps.json
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.runtimeconfig.json
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.dll
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.pdb
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.Form1.resources
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.csproj.GenerateResource.cache
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.AssemblyInfoInputs.cache
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.AssemblyInfo.cs
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.csproj.CoreCompileInputs.cache
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.dll
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\refint\WFDynamicCoding.dll
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.pdb
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.genruntimeconfig.cache
+E:\Multimedia Files\Programming\Subjects\Kustova\C#\Algorithms\WFDynamicCoding\obj\Debug\net8.0-windows\ref\WFDynamicCoding.dll
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.exe
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.deps.json
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.runtimeconfig.json
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.dll
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.pdb
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.Form1.resources
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.csproj.GenerateResource.cache
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.AssemblyInfoInputs.cache
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.AssemblyInfo.cs
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.csproj.CoreCompileInputs.cache
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.dll
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\refint\WFDynamicCoding.dll
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.pdb
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.genruntimeconfig.cache
+D:\C# Roman\Algorithms (1)\WFDynamicCoding\obj\Debug\net8.0-windows\ref\WFDynamicCoding.dll
+C:\MyWorkProgramm\Algos\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.exe
+C:\MyWorkProgramm\Algos\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.deps.json
+C:\MyWorkProgramm\Algos\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.runtimeconfig.json
+C:\MyWorkProgramm\Algos\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.dll
+C:\MyWorkProgramm\Algos\WFDynamicCoding\bin\Debug\net8.0-windows\WFDynamicCoding.pdb
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.Form1.resources
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.csproj.GenerateResource.cache
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.AssemblyInfoInputs.cache
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.AssemblyInfo.cs
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.csproj.CoreCompileInputs.cache
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.sourcelink.json
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.dll
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\refint\WFDynamicCoding.dll
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.pdb
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\WFDynamicCoding.genruntimeconfig.cache
+C:\MyWorkProgramm\Algos\WFDynamicCoding\obj\Debug\net8.0-windows\ref\WFDynamicCoding.dll
